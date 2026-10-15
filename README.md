@@ -223,6 +223,16 @@ The browser will open to `http://localhost:8501`.
 - **Upload Network CSV**: Allows uploading custom network flow datasets for instant automated triage.
 - **Alert Triage & Export**: Filter by severity or detection engine and export correlated findings to CSV.
 
+### Dashboard Showcase
+
+| Visual Threat Analytics | Correlated Security Alerts |
+| :---: | :---: |
+| ![Visual Analytics](images/Screenshot%202026-10-15%20111954.png) | ![Security Alerts](images/Screenshot%202026-10-15%20112009.png) |
+
+| Telemetry & Multi-Engine Detection | Benchmark & Upload Mode |
+| :---: | :---: |
+| ![Detection Analysis](images/Screenshot%202026-10-15%20112023.png) | ![Dashboard Overview](images/Screenshot%202026-10-15%20111934.png) |
+
 ---
 
 ## 10. Command-Line Workflow Guide
