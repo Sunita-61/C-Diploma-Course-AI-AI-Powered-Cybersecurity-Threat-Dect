@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local state
+.streamlit/
+
+# Large Datasets & Generated Data (keep structure via .gitkeep)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/simulated/*
+!data/simulated/.gitkeep
+
+# Trained models (keep structure via .gitkeep)
+models/*
+!models/.gitkeep
+
+# Reports, alerts, and figures generated dynamically
+outputs/reports/*
+!outputs/reports/.gitkeep
+outputs/figures/*
+!outputs/figures/.gitkeep
+outputs/alerts/*
+!outputs/alerts/.gitkeep
+
+# Sensitive and temporary files
+*.log
+.env
+.env.*
+*.bak
+Thumbs.db
+desktop.ini
+1NPDPRO5.JPG
